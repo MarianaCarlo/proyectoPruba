@@ -1,3 +1,3 @@
 # proyectoPruba
-Practice snapshots, 
-ya esta editado el readme
+Estamos cambiando README en MASTER por 
+la TERCER VEZ
