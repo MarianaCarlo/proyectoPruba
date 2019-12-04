@@ -1,2 +1,3 @@
 # proyectoPruba
-Practice snapshots
+Practice snapshots, 
+ya esta editado el readme
