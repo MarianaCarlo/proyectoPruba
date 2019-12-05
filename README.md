@@ -1,3 +1,2 @@
 # proyectoPruba
-Estamos cambiando README en MASTER por 
-la TERCER VEZ
+Estamos cambiando README en realidad 2 por PRIMERA VEZ
