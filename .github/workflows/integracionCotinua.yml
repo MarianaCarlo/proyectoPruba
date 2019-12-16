@@ -9,4 +9,4 @@ jobs:
         - name: Listado
           run: ls
         - name: Mostrar
-          run: cat hola.txt
+          run: cat holasss.txt
